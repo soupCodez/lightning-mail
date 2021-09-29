@@ -1,0 +1,22 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#333333",
+	"name": "Lightning Mail",
+	"short_name": "⚡ Mail",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "DefaultLogo.svg",
+			"sizes": "500x500",
+			"type": "image/svg",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "FullblackLogo.svg",
+			"sizes": "500x500",
+			"type": "image/svg",
+			"purpose": "any maskable"
+		}
+	]
+}
